@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 int main(void){
-	long long n;
+	long long n; 
 	long long m;
 	long long j;
 	int w = 0, y = 0;
