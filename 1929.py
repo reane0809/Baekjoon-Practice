@@ -1,4 +1,4 @@
-def GetPrime(n):
+def GetPrime(n): 
     if n < 2:
         return []
     n += 1
