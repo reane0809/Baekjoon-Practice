@@ -1,6 +1,3 @@
-# nCk 이항계수
-# 1초에 n은 4백만 이하
-
 from sys import stdin
 def cal1(n):
     cal = 1
