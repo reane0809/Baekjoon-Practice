@@ -3,7 +3,7 @@
 int main() {
 	int N, result = 0;
 	int dp[10][101] = { 0 };
-
+	
 	scanf("%d", &N);
 	for (int i = 1; i <= 9; i++)
 		dp[i][1] = 1;
