@@ -6,3 +6,4 @@ for i in range(K):
     child *= (K-i)
 
 print(parent // child)
+
