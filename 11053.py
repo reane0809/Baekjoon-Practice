@@ -22,3 +22,4 @@ for i in range(n):
         queue[tmp] = cream
 
 print(len(queue))
+
