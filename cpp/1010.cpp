@@ -29,4 +29,3 @@ int main() {
 		cout << comb(b, a) << "\n";
 	}
 }
-
