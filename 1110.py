@@ -9,3 +9,4 @@ while True:
     else:
         a = a%10 * 10 + (a//10 + a%10)%10
         count = count + 1
+
