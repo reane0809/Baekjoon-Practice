@@ -19,4 +19,3 @@ int main() {
 		printf("%d ",count[i]-1);
 	}
 }
-
