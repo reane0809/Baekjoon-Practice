@@ -11,3 +11,4 @@ for i in range(len(waiting_time)):
     total_time += accumulated_time
 
 print(total_time)
+
