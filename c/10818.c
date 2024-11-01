@@ -25,4 +25,3 @@ int main() {
 	printf("%d %d", MIN, MAX);
 
 }
-
