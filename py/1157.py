@@ -9,4 +9,3 @@ if c.count(max(c)) >= 2:
     print("?")
 else:
     print(b[(c.index(max(c)))].upper())  
-
