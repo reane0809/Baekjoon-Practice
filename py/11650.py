@@ -11,4 +11,3 @@ stdout.write(
         )
     ) + '\n'
 )
-
