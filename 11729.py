@@ -13,3 +13,4 @@ def h(n, left, middle, right):
 cache = {}
 n = int(input())
 print(2 ** n  - 1, h(n, 1, 2, 3), sep='\n')
+
