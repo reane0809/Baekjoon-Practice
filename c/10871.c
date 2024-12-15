@@ -18,4 +18,3 @@ int main(){
     }else printf("%d",b[i-1]);
   }
 }
-
