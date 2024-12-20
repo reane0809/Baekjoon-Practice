@@ -7,4 +7,3 @@ arr = list(set(arr))
 arr2 = sorted(sorted(arr), key = lambda x: len(x))
 l = len(arr2)
 print('\n'.join(arr2))
-
