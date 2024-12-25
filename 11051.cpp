@@ -22,3 +22,4 @@ int main() {
     printf("%d", dp[N][K]);
     return 0;
 }
+
