@@ -7,4 +7,3 @@ while (len(li)!=0):
         i=i%len(li)
     s.append(li.pop(i))
 print('<'+str(s)[1:-1]+'>')
-
