@@ -6,9 +6,7 @@ int main() {
     
     int N, K; scanf("%d %d", &N, &K);
     int dp[NK_MAX][NK_MAX] = { 0 };
-    
-    // for 문을 이용하여 n이 1일때부터 갱신합니다.
-    // 각 라운드에서는 k가 0~n 가지일 때를 갱신합니다.
+
     for(int n_row = 1; n_row <= N; n_row++){
         
         for (int k_col = 0; k_col <= N; k_col++) {
@@ -22,4 +20,3 @@ int main() {
     printf("%d", dp[N][K]);
     return 0;
 }
-
