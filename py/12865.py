@@ -16,4 +16,3 @@ def dp(n, k):
 
 N, K = map(int, read().split())
 print(dp(N, K))
-
