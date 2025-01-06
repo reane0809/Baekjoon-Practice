@@ -26,3 +26,4 @@ for _ in range(int(input())):
     for j in x:
         y.append(y[-1] + j)
     print(main2(y, n))
+
