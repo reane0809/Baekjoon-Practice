@@ -6,4 +6,3 @@ for i in map(int,input().split()):
     a = (a+i)%m
     x[a] +=1
 print(sum(i*(i-1) for i in x)//2)
-
