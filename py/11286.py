@@ -26,4 +26,3 @@ for _ in range(n):
             print(-heapq.heappop(minus))
         else:
             print(0)
-
