@@ -32,4 +32,3 @@ start:;
 	if (--T) goto start;
 	return 0;
 }
-
