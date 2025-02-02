@@ -13,4 +13,3 @@ for _ in range(n):
 for _ in range(m):
     i, j = map(int, input().split())
     print(dp[j] - dp[i - 1])
-
