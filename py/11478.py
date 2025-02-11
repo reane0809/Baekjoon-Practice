@@ -4,4 +4,3 @@ def sol(s: str) -> int:
 
 
 print(sol(input()))
-
