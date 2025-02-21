@@ -14,3 +14,4 @@ while(1):
             print(str(int(n-ans+1)) + '/' + str(int(ans)))
             break
     n += 1
+
