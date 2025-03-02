@@ -38,4 +38,3 @@ def dfs(start_v, discoverd=[]):
 dfs(V)
 print()
 bfs(V)
-
