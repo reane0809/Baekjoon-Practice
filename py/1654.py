@@ -9,4 +9,3 @@ while end>bgn+1:
     else:
         mid, end = (bgn+mid)//2, mid
 print(bgn)
-
