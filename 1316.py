@@ -8,3 +8,4 @@ for i in range(T):
             break
 
 print(T - cnt)
+
