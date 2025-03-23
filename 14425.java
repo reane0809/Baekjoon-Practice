@@ -5,7 +5,6 @@ import java.util.HashMap;
 import java.util.StringTokenizer;
 
 public class Main {
-	//문자열 집합
 	static int N;
 	static int M;
 	static HashMap<String, Boolean> data = new HashMap<String, Boolean>();
@@ -27,3 +26,4 @@ public class Main {
 		System.out.println(result);
 	}
 }
+
