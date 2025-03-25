@@ -21,4 +21,3 @@ while start <= end :
         result = mid
         
 print(result)
-
