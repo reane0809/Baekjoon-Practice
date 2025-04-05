@@ -27,3 +27,4 @@ def isIn(px, py):
 
 data = list(filter(lambda e: isIn(e[0], e[1]), players))
 print(len(data))
+
