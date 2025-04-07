@@ -18,4 +18,3 @@ int main() {
     printf("%d",cycle);
     return 0;
 }
-
