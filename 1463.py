@@ -15,3 +15,4 @@ while 1 not in s:
 		r.add(i)
 	s=s-r
 print(result)
+
