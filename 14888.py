@@ -37,3 +37,4 @@ sol(ops[0],ops[1],ops[2],ops[3], 1, a[0])
 
 print(max_ans)
 print(min_ans)
+
