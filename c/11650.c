@@ -41,4 +41,3 @@ int compare_point(const void *a, const void *b) {
         }
     }
 }
-
