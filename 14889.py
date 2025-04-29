@@ -25,3 +25,4 @@ for team_a in combinations(c_range, n//2):
     if temp<ans:
         ans = temp
 print(ans)
+
