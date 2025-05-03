@@ -10,3 +10,4 @@ for i in range(n):
 
 last = result/n
 print("%.2f" % last)
+
