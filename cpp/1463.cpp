@@ -41,4 +41,3 @@ int main(){
     cout << solve(n);
     return 0;
 }
-
