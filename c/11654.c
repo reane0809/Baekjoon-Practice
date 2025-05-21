@@ -6,4 +6,3 @@ int main() {
 	printf("%d", m);
     return 0;
 }
-
