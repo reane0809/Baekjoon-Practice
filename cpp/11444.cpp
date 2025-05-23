@@ -37,4 +37,3 @@ int main() {
 	
 	cout << ans[0][1] << '\n';
 }
-
