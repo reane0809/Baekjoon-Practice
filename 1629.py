@@ -13,3 +13,4 @@ def mul(a,b):
         return d ** 2 % c
         
 print(mul(a,b)%c)
+
