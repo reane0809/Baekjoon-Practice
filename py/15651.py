@@ -39,4 +39,3 @@ for i in range(1,n+1):
     l = []
     l.append(i)
     backtracking(2)
-
