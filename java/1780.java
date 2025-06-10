@@ -50,4 +50,3 @@ public class Main {
 				cut(size/3, startX + j*(size/3), startY + i*(size/3));
 	}
 }
-
