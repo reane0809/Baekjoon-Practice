@@ -17,3 +17,4 @@ for i in range(len(p)):
         for j in p[i:]:
             print(j)
         break
+
