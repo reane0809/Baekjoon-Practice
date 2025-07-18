@@ -18,7 +18,6 @@ public class Main {
 		sum = -100000; //Integer.MIN_VALUE로 넣게 되면 처음에 음수가 나올 경우 범위 밖을 벗어나서 오류가 생김
 		DP[0] = -100000; 
 		
-		//N개의 수를 배열에 저장
 		st = new StringTokenizer(br.readLine());
 		for(int i=1; i<=N; i++) arr[i] = Integer.parseInt(st.nextToken());
 				
@@ -31,4 +30,3 @@ public class Main {
 		System.out.println(DP[N]);
 	}
 }
-
