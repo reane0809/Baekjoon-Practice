@@ -37,3 +37,4 @@ int main() {
 	printf("%d", cnt); //cnt를 출력합니다.
 	return 0;
 }
+
