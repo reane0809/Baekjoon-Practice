@@ -22,4 +22,3 @@ int main() {
 	}
 	printf("%lld", sum_p);
 }
-
