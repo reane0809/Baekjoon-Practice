@@ -20,4 +20,3 @@ for i in range(2, N):
         dp[i][j] = matrix[i][j] + max(dp[i-1][j-1], dp[i-1][j])
 
 print(max(dp[-1]))
-
