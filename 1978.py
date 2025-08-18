@@ -21,3 +21,4 @@ for i in range(len(num_list)):
         count += 1
 
 print(count)
+
