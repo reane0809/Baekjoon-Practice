@@ -28,4 +28,3 @@ for t in range(T):
                 break
         answer += 1
         print(answer)
-
