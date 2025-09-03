@@ -11,3 +11,4 @@ if __name__ == "__main__":
             x += 1
         y = n - 2**(x-1)
         print(2*y)
+
