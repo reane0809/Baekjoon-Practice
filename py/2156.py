@@ -20,4 +20,3 @@ def gra(n):
 
 
 gra(n)
-
