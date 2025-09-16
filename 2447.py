@@ -12,4 +12,3 @@ def star10(n):
     return a + b + a
  
 print('\n'.join(star10(int(input()))))
- 
