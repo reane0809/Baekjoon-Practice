@@ -18,4 +18,3 @@ int main() {
     printf("%.2lf", (double)add / n);
 
 }
-
