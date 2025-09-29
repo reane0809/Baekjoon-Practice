@@ -87,4 +87,3 @@ if __name__ == '__main__':
                 board[i][j].determine(new_col[j])
 
     solve()
-
