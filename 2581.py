@@ -23,3 +23,4 @@ if sum == 0:
 else:
     print(sum)
     print(min)
+
