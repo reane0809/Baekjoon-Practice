@@ -6,3 +6,4 @@ int main() {
 	printf("%d", b < c ? a / (c - b) + 1 : -1);
 	return 0;
 }
+
