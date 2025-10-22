@@ -13,4 +13,3 @@ min = gcd(numA, numB)
 max = int(numA * numB / min)
 print(min)
 print(max)
-
