@@ -23,3 +23,4 @@ if __name__ == "__main__":
     paper = [input().split() for _ in range(N)]
     res = making_colored_paper(N, paper, 0, 0)
     print(res.count('0'), res.count('1'), sep='\n')
+
