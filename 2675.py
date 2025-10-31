@@ -5,3 +5,4 @@ for i in range(t):
     for sp in s:
         print(sp*c,end='')
     print(" ")
+
