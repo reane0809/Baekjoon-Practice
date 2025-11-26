@@ -21,4 +21,3 @@ int main(void) {
     func(0); 
     return 0; 
 }
-
