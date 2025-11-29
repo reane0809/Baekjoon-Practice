@@ -33,4 +33,3 @@ for i in range(n):
 quick_sort(0, n-1)
 for i in range(n):
     print(arr[i])
-
