@@ -28,3 +28,4 @@ int main() {
     bool prev[n+1] = {0, };
     dfs(1, prev, list);
 }
+
