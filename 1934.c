@@ -25,3 +25,4 @@ int main(void) {
 		printf("%d\n", LCM(a, b));
 	}
 }
+
