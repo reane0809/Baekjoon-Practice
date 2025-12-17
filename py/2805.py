@@ -19,4 +19,3 @@ def jwy():
 
 if __name__ == '__main__':
     jwy()
-
