@@ -14,3 +14,4 @@ while A > 0:
     elif A%3 != 0:
         count = -1
 print(count)
+
