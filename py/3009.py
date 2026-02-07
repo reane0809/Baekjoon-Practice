@@ -16,4 +16,3 @@ for i in range(3):
         y = y_list[i]
 
 print(x, y)
-
